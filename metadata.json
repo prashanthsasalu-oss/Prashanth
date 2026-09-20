@@ -1,0 +1,6 @@
+{
+  "name": "Varaxis Global - Digital Transformation, Governance & Enterprise Intelligence",
+  "description": "Varaxis Global is a completely AI-enabled enterprise digital service provider delivering end-to-end digital transformation, future-perspective horizon modeling, ERP excellence (SAP all modules, Blue Yonder, Kinaxis), SCM, TMS/WMS, Autonomous Finance, and 100% secure Governance & Audit Support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
